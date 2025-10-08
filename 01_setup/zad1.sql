@@ -1,0 +1,1 @@
+select edycja from studia
